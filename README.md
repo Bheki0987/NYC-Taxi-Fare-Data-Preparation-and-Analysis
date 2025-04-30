@@ -66,5 +66,6 @@ PACE Strategy Document
 
 📬 Contact
 Feel free to connect with me:
-Bheki Mogola📧 bhekimogola123@gmail.com🔗 
-LinkedIn Profile
+Bheki Mogola
+Email: bhekimogola123@gmail.com🔗 
+LinkedIn Profile: linkedin.com/in/bheki-mogola-8481122b7
