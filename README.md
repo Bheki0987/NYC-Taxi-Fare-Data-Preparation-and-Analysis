@@ -39,7 +39,7 @@ tpep_dropoff_datetime
 🚩 Anomalies found: negative and unusually high values in fare_amount and total_amount
 🔁 Zero-distance trips with high fares suggest possible data entry errors or canceled trips
 💳 Tip bias: Only credit card tips are recorded; cash trips show $0 tips
-❌ Invalid RatecodeID values (e.g., 99) found
+❌ Invalid RatecodeID values (99) found
 ⏱️ Datetime fields were stored as strings and required conversion
 
 ✅ Tasks Completed
